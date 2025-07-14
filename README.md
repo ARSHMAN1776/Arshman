@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arshman Choudhary
+# 👋 Hi, I'm Arshman Rasool
 
 🎓 BS Artificial Intelligence Student | 💻 Web Developer | ⚙️ n8n Automation Builder
 
